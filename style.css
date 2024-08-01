@@ -1,0 +1,21 @@
+body {
+    background-image: url(assets/bg.png);
+}
+
+button {
+    border: 2px solid #eeff00;
+    background-color: #2e68d3;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+}
+#pokemonForm {
+    text-align: center;
+}
+#pokemonForm input {
+    margin-bottom: 10px;
+}
